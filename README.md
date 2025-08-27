@@ -1,5 +1,8 @@
 # Struck-online-GEOG676-fall2025
 
+
+|Labs|
+|:------:|
 |[lab1](/Lab_01/README.md)|
 |[lab2](/Lab_02/README.md)|
 |[lab3](/Lab_03/README.md)|
